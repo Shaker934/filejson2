@@ -1,0 +1,22 @@
+ [
+
+    {
+      "name" : "shaker" ,
+      "age" : "55" ,
+      "jop" : "engneer"
+    },
+    {
+        "name" : "hani" ,
+         "age" : "28" ,
+         "jop" : "manager"
+    },
+
+    {
+        "name" : "mohamaad" ,
+        "age" : "25" ,
+        "jop" : "engneer"
+    }
+
+
+]
+
